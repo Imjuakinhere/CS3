@@ -1,0 +1,4 @@
+﻿  autocompleter.cpp
+C:\Users\Joaquin G\Desktop\CS3\project 3\project 3\autocompleter.cpp(46,46): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joaquin G\Desktop\CS3\project 3\project 3\autocompleter.cpp(126,21): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+  project 3.vcxproj -> C:\Users\Joaquin G\Desktop\CS3\project 3\x64\Debug\project 3.exe

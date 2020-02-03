@@ -1,0 +1,5 @@
+﻿  Trendtracker.cpp
+C:\Users\Joaquin Garcia\Desktop\CS3\project 2\project 2\Trendtracker.cpp(186,15): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Joaquin Garcia\Desktop\CS3\project 2\project 2\Trendtracker.cpp(190,30): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Joaquin Garcia\Desktop\CS3\project 2\project 2\Trendtracker.cpp(214,30): warning C4018:  '<': signed/unsigned mismatch
+  project 2.vcxproj -> C:\Users\Joaquin Garcia\Desktop\CS3\project 2\Debug\project 2.exe

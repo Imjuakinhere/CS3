@@ -1,0 +1,18 @@
+﻿  Solve.cpp
+C:\Users\Joaquin G\Desktop\CS3\Project7\Solve.cpp(18,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joaquin G\Desktop\CS3\Project7\Solve.cpp(25,91): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Joaquin G\Desktop\CS3\Project7\Solve.cpp(45,91): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Joaquin G\Desktop\CS3\Project7\Solve.cpp(77,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joaquin G\Desktop\CS3\Project7\Solve.cpp(196,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joaquin G\Desktop\CS3\Project7\Solve.cpp(239,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joaquin G\Desktop\CS3\Project7\Solve.cpp(250,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joaquin G\Desktop\CS3\Project7\Solve.cpp(262,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joaquin G\Desktop\CS3\Project7\Solve.cpp(274,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joaquin G\Desktop\CS3\Project7\Solve.cpp(286,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joaquin G\Desktop\CS3\Project7\Solve.cpp(302,27): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  0 of 404 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project7.vcxproj -> C:\Users\Joaquin G\Desktop\CS3\Project7\Release\Project7.exe

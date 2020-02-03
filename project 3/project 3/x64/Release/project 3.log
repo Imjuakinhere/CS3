@@ -1,0 +1,9 @@
+﻿  autocompleter.cpp
+C:\Users\Joaquin G\Desktop\CS3\project 3\project 3\autocompleter.cpp(48,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joaquin G\Desktop\CS3\project 3\project 3\autocompleter.cpp(129,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating code
+  Compiler version has changed, fall back to full compilation.
+  All 325 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  project 3.vcxproj -> C:\Users\Joaquin G\Desktop\CS3\project 3\x64\Release\project 3.exe

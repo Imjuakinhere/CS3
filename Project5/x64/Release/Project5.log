@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\Joaquin G\Desktop\CS3\Project5\minpriorityqueue.h(48,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joaquin G\Desktop\CS3\Project5\minpriorityqueue.h(41): message : while compiling class template member function 'void MinPriorityQueue<char>::push(T,int)'
+C:\Users\Joaquin G\Desktop\CS3\Project5\minpriorityqueue.h(41): message :         with
+C:\Users\Joaquin G\Desktop\CS3\Project5\minpriorityqueue.h(41): message :         [
+C:\Users\Joaquin G\Desktop\CS3\Project5\minpriorityqueue.h(41): message :             T=char
+C:\Users\Joaquin G\Desktop\CS3\Project5\minpriorityqueue.h(41): message :         ]
+C:\Users\Joaquin G\Desktop\CS3\Project5\main.cpp(365): message : see reference to function template instantiation 'void MinPriorityQueue<char>::push(T,int)' being compiled
+C:\Users\Joaquin G\Desktop\CS3\Project5\main.cpp(365): message :         with
+C:\Users\Joaquin G\Desktop\CS3\Project5\main.cpp(365): message :         [
+C:\Users\Joaquin G\Desktop\CS3\Project5\main.cpp(365): message :             T=char
+C:\Users\Joaquin G\Desktop\CS3\Project5\main.cpp(365): message :         ]
+C:\Users\Joaquin G\Desktop\CS3\Project5\main.cpp(362): message : see reference to class template instantiation 'MinPriorityQueue<char>' being compiled
+C:\Users\Joaquin G\Desktop\CS3\Project5\minpriorityqueue.h(33,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joaquin G\Desktop\CS3\Project5\minpriorityqueue.h(32): message : while compiling class template member function 'int MinPriorityQueue<char>::size(void)'
+C:\Users\Joaquin G\Desktop\CS3\Project5\main.cpp(364): message : see reference to function template instantiation 'int MinPriorityQueue<char>::size(void)' being compiled
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 551 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project5.vcxproj -> C:\Users\Joaquin G\Desktop\CS3\Project5\x64\Release\Project5.exe
